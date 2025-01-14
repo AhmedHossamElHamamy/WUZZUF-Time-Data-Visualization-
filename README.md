@@ -29,5 +29,11 @@ MathJax: A JavaScript library for rendering mathematical equations.
 Font Awesome: Icons used throughout the slideshow for better visual representation.
 
 ## How to Use
-Clone the Repository: Clone this repository to your local machine.
-git clone https://github.com/your-username/wuzzuf-data-visualization.git
+1-Clone the Repository: Clone this repository to your local machine.
+                                                                                                                                            
+    https://github.com/AhmedHossamElHamamy/WUZZUF-Time-Data-Visualization-.git
+    
+2-Open the Slideshow: Navigate to the project directory and open the slideshow.slides.html file in your web browser.
+                                                                                                                                             
+    cd WUZZUF-Time-Data-Visualization-
+    open slideshow.slides.html
